@@ -8,5 +8,6 @@ public class zyhTest {
         System.out.println("GitHub 你好啊");
         System.out.println("GitHub HAHA 你好啊");
         System.out.println("Hot-fix");
+        System.out.println("master Hot-fix");
     }
 }
