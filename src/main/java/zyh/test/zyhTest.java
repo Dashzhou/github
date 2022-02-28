@@ -10,5 +10,6 @@ public class zyhTest {
         System.out.println("Hot-fix");
         System.out.println("master Hot-fix");
         System.out.println("hotfix Hot-fix");
+        System.out.println("hotfix Hot-fix ssh");
     }
 }
